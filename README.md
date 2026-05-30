@@ -1,4 +1,4 @@
-# Global Sample Store Analytics Dashboard
+# Sample Store Analytics Dashboard
 
 An interactive, 4-page Power BI dashboard transforming raw retail transactions into structured executive insights across regional, customer, and temporal dimensions.
 
